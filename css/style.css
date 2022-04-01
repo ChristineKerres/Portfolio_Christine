@@ -1,4 +1,9 @@
 /* This is a comment */
+@font-face {
+    font-family: MINGLIU ;
+    src: url(/fonts/MINGLIU.ttf);
+}
+
 html{
     scroll-behavior: smooth;
 }
