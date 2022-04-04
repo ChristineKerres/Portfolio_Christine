@@ -1,7 +1,7 @@
 var speed = 5000;
 function scrollen() {
-  if(scrollY != document.body.scrollHeight)
-      scrollByPages(1);
+  if(scrollY!= document.body.scrollHeight)
+      scrollBy(400,400);
   else
     scrollTo(0, 0);
 }
