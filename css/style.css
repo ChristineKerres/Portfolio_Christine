@@ -8,6 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    content: 100%;
     font-family:MingLiU, serif;
     src: url('https://christinekerres.github.io/Portfolio_Christine/fonts/MINGLIU.ttf');
     font-size: 2.3vw;
