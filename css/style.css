@@ -56,6 +56,7 @@ body{
     transform: scale(0.9);
     position:relative;
     left: 10%;
+    margin-bottom: 70px;
 }
 .container05{
     width: 1000px;
@@ -67,6 +68,7 @@ body{
     transform: scale(0.8);
     position: relative;
     right: 10%;
+    margin-bottom: 70px;
 }
 .container06{
     width: 1000px;
@@ -76,6 +78,7 @@ body{
     src: url('https://christinekerres.github.io/Portfolio_Christine/fonts/MINGLIU.ttf');
     font-size: 1.5vw;
     transform: scale(0.9);
+    margin-bottom: 70px;
 }
 .container07{
     width: 100%;
@@ -87,6 +90,7 @@ body{
     src: url('https://christinekerres.github.io/Portfolio_Christine/fonts/MINGLIU.ttf');
     font-size: 1.5vw;
     transform: scale(1);
+    margin-bottom: 70px;
 }
 .container08{
     width: 1000px;
