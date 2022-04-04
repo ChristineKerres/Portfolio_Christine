@@ -196,6 +196,7 @@ a:hover{
     background-color: #9AFFAA;
 }
 img{
+    width: auto;
     max-width: 100%;
     height: auto;
 }
