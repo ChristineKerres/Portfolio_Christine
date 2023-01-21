@@ -1,0 +1,42 @@
+@font-face {
+  font-family: SelectricMono;
+  src: url(fonts/SelectricMono.otf);
+  src: url(https://christinekerres.github.io/Portfolio_Christine/fonts/SelectricMono.otf);
+}
+body {
+  font-family: Selectric;
+  font-size: 17px;
+  margin: 20px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+.time-counting {
+  color: black;
+  font-size: 30px;
+  text-shadow: 0 0 4px #ffffff, 0 0 5px #383838;
+  margin-top: 50px;
+}
+#revision {
+  font-family: "Courier New", Courier, monospace;
+  transition: transform 0.15s; /* Sticking effect */
+  pointer-events: none; /* Allow clicking trough the div */
+}
+.info {
+  position: fixed;
+  bottom: 0%;
+  text-align: center;
+  margin: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-shadow: 0 0 2px #ffffff, 0 0 3px #383838;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
