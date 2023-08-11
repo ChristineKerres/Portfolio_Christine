@@ -45,8 +45,8 @@ a:visited {
 }
 .automated-scrolling {
   height: auto;
-  /*box-shadow: 0 0 2px #ffffff, 0 0 3px #383838;*/
-  /*border-radius: 10px;*/
+  box-shadow: 0 0 2px #ffffff, 0 0 3px #383838;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
